@@ -1,0 +1,5 @@
+来源仓库：https://github.com/tlsfuzzer/python-ecdsa
+冻结 commit：71e3fc7240cf31584fb0e10bd58e2830f2fc5afc
+许可证：NOASSERTION
+导入日期：2026-11-20
+说明：本目录为评测底座，已剥离上游 git 历史，仅保留代码快照。
